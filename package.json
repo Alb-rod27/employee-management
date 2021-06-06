@@ -1,0 +1,30 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.0",
+    "mysql2": "^2.2.5",
+    "promise-mysql": "^5.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alb-rod27/employee-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alb-rod27/employee-management/issues"
+  },
+  "homepage": "https://github.com/Alb-rod27/employee-management#readme"
+}
